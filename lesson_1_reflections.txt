@@ -13,3 +13,4 @@ cd ..
 mk
 mv
 subl open_sublime
+git commit -m "comentario"
