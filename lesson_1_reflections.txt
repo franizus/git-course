@@ -15,6 +15,9 @@ mk
 mv
 subl open_sublime
 git commit -m "comentario"
-git remote
+git remote add origin or upstream url
 git remote -v
 git push origin master
+git fetch master origin/master
+git reset --hard //elimina staging working
+git reset --hard HEAD~1 elimina el primer commit
