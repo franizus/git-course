@@ -9,8 +9,12 @@ q
 git add
 git branch
 git branch name_branch
+git branch -d name_branch
 cd ..
 mk
 mv
 subl open_sublime
 git commit -m "comentario"
+git remote
+git remote -v
+git push origin master
