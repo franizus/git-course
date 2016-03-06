@@ -1,0 +1,15 @@
+git init
+git status
+git clone url
+git log
+git checkout commit1 or branch
+git merge branch1 branch2 
+git merge --abort
+q
+git add
+git branch
+git branch name_branch
+cd ..
+mk
+mv
+subl open_sublime
